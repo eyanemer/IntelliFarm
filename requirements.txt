@@ -4,8 +4,7 @@ langchain
 langchain-community
 google-generativeai
 langchain-google-genai
-gtts
+gTTS
 faiss-cpu
 SpeechRecognition
-pyaudio
 streamlit_mic_recorder
