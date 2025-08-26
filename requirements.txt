@@ -8,3 +8,4 @@ gTTS
 faiss-cpu
 SpeechRecognition
 streamlit_mic_recorder
+plotly
