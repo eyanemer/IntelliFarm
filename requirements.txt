@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+langchain
+langchain-community
+google-generativeai
+langchain-google-genai
+gtts
+SpeechRecognition
+pyaudio
+streamlit_mic_recorder
