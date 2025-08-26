@@ -5,6 +5,7 @@ langchain-community
 google-generativeai
 langchain-google-genai
 gtts
+faiss-cpu
 SpeechRecognition
 pyaudio
 streamlit_mic_recorder
